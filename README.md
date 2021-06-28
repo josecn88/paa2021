@@ -2,6 +2,5 @@
 DC@UFSCAR
 -
 Trabalhos da Disciplina
-Prof.Dr. Diego Furtado Silva
 -
 Disciplina Ministrada Remotamente - ENPE 2020/2021
