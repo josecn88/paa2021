@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Olá Professor Diego!
+Olá Professor
 Infelizmente para o caso do trabalho, todas as implementações de algorítmo de sort que encontrei
 estouram o tempo de processamento no run.codes. A única que executou dentro do intervalo de
 tempo proposto foi o sort do próprio Python.
